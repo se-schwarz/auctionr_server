@@ -1,0 +1,22 @@
+{
+  "name": "auctionr_server",
+  "version": "0.0.1",
+  "description": "Server for the auctionr app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/se-schwarz/auctionr_server.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sebastian Schwarz <sschwarz22@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/se-schwarz/auctionr_server/issues"
+  },
+  "homepage": "https://github.com/se-schwarz/auctionr_server#readme"
+}
